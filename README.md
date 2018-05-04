@@ -6,3 +6,5 @@ Alteração no arquivo hello-world para testar o commit via navegador, página d
 Linha adicionada no vi. Localmente ubuntu.
 
 Linha adicionada no atom.
+
+Outra linha após o squid.
